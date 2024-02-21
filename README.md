@@ -4,7 +4,9 @@ This program can create the beats lines in your Geometry Dash level automaticall
 
 # Installation
 
-To run the project, you have to install BeautifulSoup4, Lxml and Librosa. On windows, you need a Windows compiler [(Explained here)](https://github.com/CPJKU/madmom/issues/478#issuecomment-1268436994).
+To run the project, you have to install Python, BeautifulSoup4, Lxml and Librosa. On windows, you need a Windows compiler [(Explained here)](https://github.com/CPJKU/madmom/issues/478#issuecomment-1268436994).
+
+`pip install beautifulsoup4 lxml librosa`
 
 # Credits
 
