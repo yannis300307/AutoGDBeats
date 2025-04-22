@@ -2,11 +2,14 @@
 
 This program can create the beats lines in your Geometry Dash level automatically using Librosa.
 
+## You should save your Geometry Dash account to avoid any risk of data lose
+
 # Installation
 
 To run the project, you have to install Python, BeautifulSoup4, Lxml and Librosa. On windows, you need a Windows compiler [(Explained here)](https://github.com/CPJKU/madmom/issues/478#issuecomment-1268436994).
 
 `pip install beautifulsoup4 lxml librosa`
+then, you can Git clone the repository and run the program using Python
 
 # Credits
 
